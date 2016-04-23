@@ -1,0 +1,298 @@
+[
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\layout\\single_thumbnail_item.xml",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\layout\\single_thumbnail_item.xml"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\layout\\leave_comment.xml",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\layout\\leave_comment.xml"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\layout\\purchased_items.xml",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\layout\\purchased_items.xml"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\layout\\shop_single_category.xml",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\layout\\shop_single_category.xml"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_home.xml",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_home.xml"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\layout\\about.xml",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\layout\\about.xml"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\layout\\view_product.xml",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\layout\\view_product.xml"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\layout\\single_breadcrumb.xml",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\layout\\single_breadcrumb.xml"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\layout\\main_navigation.xml",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\layout\\main_navigation.xml"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\layout\\abc_simple_decor.xml",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_simple_decor.xml"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\layout\\slidingmenumain.xml",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\exploded-aar\\Soko\\slidingMenu\\unspecified\\res\\layout\\slidingmenumain.xml"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\layout\\shop_pager.xml",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\layout\\shop_pager.xml"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\layout\\payment_info.xml",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\layout\\payment_info.xml"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\layout\\single_option_text_item.xml",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\layout\\single_option_text_item.xml"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\layout\\progress_actionview.xml",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\layout\\progress_actionview.xml"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\layout\\contact_us.xml",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\layout\\contact_us.xml"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\layout\\category_sidebar.xml",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\layout\\category_sidebar.xml"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_tab.xml",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_tab.xml"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\layout\\view_product_color_popup.xml",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\layout\\view_product_color_popup.xml"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\layout\\single_spinner_item.xml",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\layout\\single_spinner_item.xml"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\layout\\shop_single_item.xml",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\layout\\shop_single_item.xml"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\layout\\single_order.xml",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\layout\\single_order.xml"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\layout\\login.xml",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\layout\\login.xml"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\layout\\intro_single_slide.xml",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\layout\\intro_single_slide.xml"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\layout\\sliding_menu.xml",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\layout\\sliding_menu.xml"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\layout\\zoom_in.xml",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\layout\\zoom_in.xml"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\layout\\single_banner_item.xml",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\layout\\single_banner_item.xml"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\layout\\single_purchased_items.xml",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\layout\\single_purchased_items.xml"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\layout\\shop_single_category_indented.xml",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\layout\\shop_single_category_indented.xml"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\layout\\single_cart_item.xml",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\layout\\single_cart_item.xml"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\layout\\single_comment_item.xml",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\layout\\single_comment_item.xml"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\layout\\similar.xml",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\layout\\similar.xml"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\layout\\cart_sliding_menu.xml",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\layout\\cart_sliding_menu.xml"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_tabbar.xml",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_tabbar.xml"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\layout\\single_thumbnail_color_item.xml",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\layout\\single_thumbnail_color_item.xml"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\layout\\register.xml",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\layout\\register.xml"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\layout\\shop_categories_header.xml",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\layout\\shop_categories_header.xml"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\layout\\dashboard.xml",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\layout\\dashboard.xml"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item.xml",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_mode_close_item.xml"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor_include.xml",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_decor_include.xml"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\layout\\cart_icon.xml",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\layout\\cart_icon.xml"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\layout\\shop_categories.xml",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\layout\\shop_categories.xml"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\layout\\checkout.xml",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\layout\\checkout.xml"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\layout\\empty_view.xml",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\layout\\empty_view.xml"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\layout\\cart_sidebar.xml",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\layout\\cart_sidebar.xml"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\layout\\search.xml",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\layout\\search.xml"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\layout\\intro_single_marquee_text.xml",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\layout\\intro_single_marquee_text.xml"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\layout\\single_order_page.xml",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\layout\\single_order_page.xml"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor.xml",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_decor.xml"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\layout\\single_order_item.xml",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\layout\\single_order_item.xml"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\layout\\order_list.xml",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\layout\\order_list.xml"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_include.xml",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_activity_chooser_view_include.xml"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\layout\\cart.xml",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\layout\\cart.xml"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor_overlay.xml",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_decor_overlay.xml"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\layout\\shop.xml",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\layout\\shop.xml"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\layout\\intro.xml",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\layout\\intro.xml"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\layout\\single_color_item.xml",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\layout\\single_color_item.xml"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_activity_chooser_view.xml"
+    }
+]

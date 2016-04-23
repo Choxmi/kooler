@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+    android:orientation="vertical" >
+
+    <ListView
+        android:id="@+id/lvPurchasedItems_list"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:layout_marginBottom="70dp"
+        android:layout_marginRight="5dp" >
+    </ListView>
+    
+    <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/cart_row"
+                android:layout_gravity="bottom"
+                android:layout_marginBottom="10dp"
+                android:layout_marginTop="20dp"
+                android:background="#ffffff"
+                android:orientation="horizontal" >
+
+                <Button
+                    android:id="@+id/bShopMore"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_margin="5dp"
+                    android:layout_weight="1"
+                    android:background="@color/green"
+                    android:text="Shop some more"
+                    android:textColor="#ffffff" />
+            </LinearLayout>
+
+</FrameLayout>

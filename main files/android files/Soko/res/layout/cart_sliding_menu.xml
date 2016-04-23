@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:sliding="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+    <com.jeremyfeinstein.slidingmenu.lib.SlidingMenu
+        android:id="@+id/slidingmenulayoutRight"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        sliding:behindOffset="300dp"
+        sliding:fadeDegree="0.35"
+        sliding:fadeEnabled="true"
+        
+        sliding:selectorEnabled="true"
+        sliding:shadowWidth="15dp"
+        sliding:touchModeAbove="fullscreen"
+        sliding:viewAbove="@layout/sliding_menu"
+        sliding:viewBehind="@layout/cart" />
+
+</LinearLayout>

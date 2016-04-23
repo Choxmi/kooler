@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:paddingTop="10dp" >
+
+    <LinearLayout
+        android:id="@+id/llsingle_item_col1"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/item_row_height"
+        android:layout_marginRight="10dp"
+        android:layout_weight="1"
+        android:padding="1dp"
+        android:background="@drawable/white_rectangle_black_border"
+        android:orientation="vertical" >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/item_image_height" >
+
+            <ImageView
+                android:id="@+id/ivshop_single_image1"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:paddingBottom="20dp"
+                />
+            
+            <ImageView 
+                android:id="@+id/ivshop_single_banner_hot1"
+                android:src="@drawable/banner_hot"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+               	android:layout_alignParentTop="true"
+               	android:visibility="gone"
+                />
+            
+            
+            <ImageView 
+                android:id="@+id/ivshop_single_banner_new1"
+                android:src="@drawable/banner_final"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+               	android:layout_alignParentTop="true"
+               	android:visibility="gone"
+                />
+
+            <TextView
+                android:id="@+id/tvshop_single_stock1"
+                android:layout_width="wrap_content"
+                android:layout_height="20dp"
+                android:layout_alignParentBottom="true"
+                android:background="#f2f2f2"
+                android:gravity="center"
+                android:text="HOT!"
+                android:textColor="#5b78a3"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:paddingTop="4.5dp"
+                android:textSize="10sp"
+                android:textStyle="bold" />
+        </RelativeLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/vertical_divider_welcome" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/tvshop_single_name1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="left"
+                android:layout_weight="1"
+                android:text="Hatley"
+                android:maxLines="1" 
+                android:textColor="#5e5e5e"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tvshop_single_price1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="right"
+                android:text="$88.00"
+                android:layout_marginRight="5dp"
+                android:textColor="#48bf7f" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/tvshop_single_brand1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Funnel Neck..."
+                android:maxLines="1" 
+                android:textColor="#5e5e5e"
+                android:textSize="13sp" />
+
+            <RatingBar
+                android:id="@+id/rbshop_single_rate1"
+                style="@style/RatingBar"
+                android:layout_width="110dp"
+                android:numStars="5"
+                android:isIndicator="true"
+                android:rating="4"
+                android:max="5"
+                android:layout_marginRight="5dp"
+                android:layout_height="12dp"
+                android:layout_weight="1" />
+
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/llsingle_item_col2"
+        android:layout_width="match_parent"
+         android:layout_height="@dimen/item_row_height"
+        android:layout_marginRight="10dp"
+        android:layout_weight="1"
+        android:padding="2dp"
+        android:background="@drawable/white_rectangle_black_border"
+       
+        android:orientation="vertical" >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/item_image_height" >
+
+            <ImageView
+                android:id="@+id/ivshop_single_image2"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:paddingBottom="20dp"
+                 />
+            
+            <ImageView 
+                android:id="@+id/ivshop_single_banner_new2"
+                android:src="@drawable/banner_final"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+               	android:layout_alignParentTop="true"
+               	android:visibility="gone"
+                />
+			<ImageView 
+			    android:id="@+id/ivshop_single_banner_hot2"
+                android:src="@drawable/banner_hot"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+               	android:layout_alignParentTop="true"
+               	android:visibility="gone"
+                />
+            <TextView
+                android:id="@+id/tvshop_single_stock2"
+                android:layout_width="wrap_content"
+                android:layout_height="20dp"
+                android:layout_alignParentBottom="true"
+                android:background="#f2f2f2"
+                android:gravity="left"
+                
+                android:maxLines="1" 
+                android:text="5 ITEMS REMAINING!"
+                android:textColor="#5b78a3"
+                android:textSize="10sp"
+                android:paddingTop="4.5dp"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:textStyle="bold" />
+        </RelativeLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/vertical_divider_welcome" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/tvshop_single_name2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="left"
+                android:layout_weight="1"
+                android:text="Hatley"
+                android:maxLines="1" 
+                android:textColor="#5e5e5e"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tvshop_single_price2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="right"
+                android:text="$88.00"
+                android:layout_marginRight="5dp"
+                android:textColor="#48bf7f" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/tvshop_single_brand2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Funnel Neck..."
+                android:maxLines="1" 
+                android:textColor="#5e5e5e"
+                android:textSize="13sp" />
+            
+            <RatingBar
+                android:id="@+id/rbshop_single_rate2"
+                style="@style/RatingBar"
+                android:layout_width="110dp"
+                android:numStars="5"
+                android:isIndicator="true"
+                android:rating="4"
+                android:max="5"
+                android:layout_marginRight="5dp"
+                android:layout_height="12dp"
+                android:layout_weight="1" />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

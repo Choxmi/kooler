@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Soko.iml" filepath="$PROJECT_DIR$/Soko.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hListViewLibrary/hListViewLibrary.iml" filepath="$PROJECT_DIR$/hListViewLibrary/hListViewLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pagerlibrary/pagerlibrary.iml" filepath="$PROJECT_DIR$/pagerlibrary/pagerlibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/slidingMenu/slidingMenu.iml" filepath="$PROJECT_DIR$/slidingMenu/slidingMenu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/soko/soko.iml" filepath="$PROJECT_DIR$/soko/soko.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/llSliderCart"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="#5e80ab"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="CART TOTALS"
+            android:textColor="#ffffff"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/cart_row"
+        android:background="#ffffff"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:layout_width="120dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:gravity="right"
+            android:paddingRight="20dp"
+            android:text="Subtotal"
+            android:textColor="#a4a4a4"
+            android:textSize="@dimen/text_normal" />
+
+        <View
+            android:layout_width="1dp"
+            android:layout_height="match_parent"
+            android:background="@color/vertical_divider_welcome" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:gravity="right"
+            android:paddingLeft="20dp"
+            android:text="@string/currency"
+            android:textColor="#a4a4a4"
+            android:textSize="@dimen/text_normal" />
+
+        <TextView
+            android:id="@+id/tvCart_subtotal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:gravity="right"
+            android:paddingRight="20dp"
+            android:text="125.00"
+            android:textColor="#a4a4a4"
+            android:textSize="@dimen/text_normal" />
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/vertical_divider_welcome" />
+
+   <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/cart_row"
+        android:background="#ffffff"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:layout_width="120dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:gravity="right"
+            android:paddingRight="20dp"
+            android:text="Shipping"
+            android:textColor="#a4a4a4"
+            android:textSize="@dimen/text_normal" />
+
+        <View
+            android:layout_width="1dp"
+            android:layout_height="match_parent"
+            android:background="@color/vertical_divider_welcome" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:gravity="right"
+            android:paddingLeft="20dp"
+            android:text="@string/currency"
+            android:textColor="#a4a4a4"
+            android:textSize="@dimen/text_normal" />
+
+        <TextView
+            android:id="@+id/tvCart_shipping"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:gravity="right"
+            android:paddingRight="20dp"
+            android:text="0.00"
+            android:textColor="#a4a4a4"
+            android:textSize="@dimen/text_normal" />
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/vertical_divider_welcome" />
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/cart_row"
+        android:background="#ffffff"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:layout_width="120dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:gravity="right"
+            android:paddingRight="20dp"
+            android:text="Tax"
+            android:textColor="#a4a4a4"
+            android:textSize="@dimen/text_normal" />
+
+        <View
+            android:layout_width="1dp"
+            android:layout_height="match_parent"
+            android:background="@color/vertical_divider_welcome" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:gravity="right"
+            android:paddingLeft="20dp"
+            android:text="@string/currency"
+            android:textColor="#a4a4a4"
+            android:textSize="@dimen/text_normal" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:gravity="right"
+            android:paddingRight="20dp"
+            android:text="0.00"
+            android:textColor="#a4a4a4"
+            android:textSize="@dimen/text_normal" />
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/vertical_divider_welcome" />
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/cart_row"
+        android:background="#ffffff"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:layout_width="120dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:gravity="right"
+            android:paddingRight="20dp"
+            android:text="Total"
+            android:textStyle="bold"
+            android:textColor="@color/blue"
+            android:textSize="@dimen/text_title" />
+
+        <View
+            android:layout_width="1dp"
+            android:layout_height="match_parent"
+            android:background="@color/vertical_divider_welcome" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:gravity="right"
+            android:paddingLeft="20dp"
+            android:text="@string/currency"
+            android:textStyle="bold"
+            android:textColor="@color/blue"
+            android:textSize="@dimen/text_title" />
+
+        <TextView
+             android:id="@+id/tvCart_totals"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:gravity="right"
+            android:textStyle="bold"
+            android:paddingRight="20dp"
+            android:text="125.00"
+            android:textColor="@color/blue"
+            android:textSize="@dimen/text_title" />
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/vertical_divider_welcome" />
+    
+    
+    
+   
+
+</LinearLayout>

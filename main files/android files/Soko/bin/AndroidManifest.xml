@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.gilo.wooApi.soko"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="21" />
+    
+     <!-- for card.io card scanning -->
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    
+    <uses-feature android:name="android.hardware.camera" android:required="false" />
+    <uses-feature android:name="android.hardware.camera.autofocus" android:required="false" />
+
+    <!-- for most things, including card.io & paypal -->
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    
+
+    <application
+        android:allowBackup="true"
+        android:configChanges="orientation|keyboardHidden|screenSize"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:name="com.gilo.soko.DataContainer"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.gilo.soko.NavigationDrawer"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        
+        <activity android:name="com.gilo.soko.ShopActivity" android:configChanges="orientation|screenSize"/>
+        <activity android:name="com.gilo.soko.SingleProductActivity" android:configChanges="orientation|screenSize"/>
+         <activity android:name="com.gilo.soko.SingleProductDrawerActivity" 
+             android:configChanges="orientation|screenSize"
+             />
+        <activity android:name="com.gilo.soko.MainActivity" android:configChanges="orientation|screenSize"/>
+        <activity android:name="com.gilo.soko.CheckOutActivity" android:configChanges="orientation|screenSize"/>
+        <activity android:name="com.gilo.soko.ShippingInformationActivity" android:configChanges="orientation|screenSize"/>
+        <activity android:name="com.gilo.soko.ShopDrawerActivity" 
+            android:configChanges="orientation|screenSize"
+            />
+        <activity android:name="com.gilo.soko.LeaveACommentActivity" android:configChanges="orientation|screenSize"/>
+        <activity android:name="com.gilo.soko.PurchasedItemsActivity" android:configChanges="orientation|screenSize"/>
+        <activity android:name="com.gilo.soko.AboutActivity" android:configChanges="orientation|screenSize"/>
+        <activity android:name="com.gilo.soko.ContactUsActivity" android:configChanges="orientation|screenSize"/>
+        <activity android:name="com.gilo.soko.LoginActivity" android:configChanges="orientation|screenSize"/>
+        <activity android:name="com.gilo.soko.DashboardActivity" android:configChanges="orientation|screenSize"/>
+         <activity android:name="com.gilo.soko.HeartedActivity" android:configChanges="orientation|screenSize"/>
+         
+          <activity android:name="com.gilo.soko.OrderActivity" android:configChanges="orientation|screenSize"/>
+           <activity android:name="com.gilo.soko.SingleOrderActivity" android:configChanges="orientation|screenSize"/>
+          
+        <activity android:name="com.gilo.soko.SimilarActivity" 
+            android:parentActivityName="com.gilo.soko.SingleProductDrawerActivity"
+            android:configChanges="orientation|screenSize"
+            />
+        <activity android:name="com.gilo.soko.ZoomInActivity"
+            android:configChanges="orientation|screenSize"
+             />
+        
+        <!-- Search results activity -->
+        <activity android:name="com.gilo.soko.SearchActivity"
+            android:configChanges="orientation|screenSize"
+            android:parentActivityName="com.gilo.soko.NavigationDrawer" >
+            <intent-filter>
+                <action android:name="android.intent.action.SEARCH" />
+            </intent-filter>
+ 
+            <meta-data
+                android:name="android.app.searchable"
+                android:resource="@xml/searchable" />
+        </activity>
+        
+        <meta-data android:name="android.app.default_searchable" android:value=".SearchActivity" />
+        
+        <service android:name="com.paypal.android.sdk.payments.PayPalService"
+            android:exported="false" />
+        
+        <activity android:name="com.paypal.android.sdk.payments.PaymentActivity" />
+        <activity android:name="com.paypal.android.sdk.payments.LoginActivity" />
+        <activity android:name="com.paypal.android.sdk.payments.PaymentMethodActivity" />
+        <activity android:name="com.paypal.android.sdk.payments.PaymentConfirmActivity" />
+        <activity android:name="com.paypal.android.sdk.payments.PayPalFuturePaymentActivity" />
+        <activity android:name="com.paypal.android.sdk.payments.FuturePaymentConsentActivity" />
+        <activity android:name="com.paypal.android.sdk.payments.FuturePaymentInfoActivity" />
+        <activity android:name="com.paypal.android.sdk.payments.PayPalProfileSharingActivity" />
+        <activity android:name="com.paypal.android.sdk.payments.ProfileSharingConsentActivity" />
+        
+
+        <activity
+            android:name="io.card.payment.CardIOActivity"
+            android:configChanges="keyboardHidden|orientation" />
+        <activity android:name="io.card.payment.DataEntryActivity" />
+        
+    </application>
+
+</manifest>

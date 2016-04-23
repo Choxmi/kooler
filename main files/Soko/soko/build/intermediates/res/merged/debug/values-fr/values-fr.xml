@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Revenir à l\'accueil"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Revenir en haut de la page"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Plus d\'options"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"OK"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Tout afficher"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Sélectionner une application"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Effacer la requête"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Requête de recherche"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Rechercher"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Envoyer la requête"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Recherche vocale"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Partager avec"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Partager avec %s"</string>
+    <string name="about">
+	    </string>
+    <string name="about_author">
+	    </string>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">marché</string>
+    <string name="cart_dummy">The North Face\n
+	        Color: Cherry Stain Brown\n
+	        Size: Mens 9 \n
+	    </string>
+    <string name="categories">Catégories</string>
+    <string name="currency"> $</string>
+    <string name="email">
+	       info@starinxs.com
+	    </string>
+    <string name="hello_world">Bonjour tout le monde</string>
+    <string name="hint">Hint</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. 
+	    </string>
+    <string name="marquee_text"> 365 Day Return Policy</string>
+    <string name="package_name">com.gilo.soko</string>
+    <string name="payment_details">The paypal payment method is not live. This is just a demonstration and no money will be used in the process.</string>
+    <string name="placeholder_info_text">● UA Storm gear uses a DWR finish to repel water without sacrificing breathability. \n
+		 ● Textured Armour Fleece has a brushed inner layer &amp; a smooth outer layer. \n
+ 		 ● Soft inner layer traps heat to keep you warm &amp; comfortable. \n
+		 ● 3-piece hood construction for superior fit. \n
+		 ● Front kangaroo pocket. \n
+		 ● Full, loose fit for enhanced range of motion &amp; breathable comfort no matter where your workout takes you. \n
+		 ● 100% polyester. \n
+		 ● Machine wash cold, tumble dry low. \n
+		 ● Imported. \n
+	    </string>
+    <string name="select_a_category">Choisissez une catégorie</string>
+    <string name="shipping_details">Expedited orders placed before 1 PM Pacific on a business day will be shipped out the same day. All other orders will be shipped out the next business day. \n\n
+Due to high alcohol content, items such as fragrances, hairspray and aftershave will be sent via ground shipping (5-7 business days).</string>
+    <string name="shipping_sample">Gilbert Rono, \n
+	        P.O. Box 1710 - 20200, \n
+	        Kericho, Rift Valley , Kenya.
+	    </string>
+    <string name="view_cateogires">Voir Catégories</string>
+    <string name="welcome">accueil</string>
+</resources>

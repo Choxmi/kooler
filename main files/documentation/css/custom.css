@@ -1,0 +1,31 @@
+#header {
+  background: #669900;
+  background: -moz-linear-gradient(top, #b80000 0%, #b80000 100%);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #b80000), color-stop(100%, #b80000));
+  border-bottom: 3px solid #b80000;
+}
+
+#header h1 a {
+  color: #fff;
+  color: rgba(255,255,255,0.9);
+}
+
+#content a {
+    color: #b80000;
+}
+
+.crop {
+    overflow: hidden;
+}
+
+.crop img {
+    margin: -250px 0;
+}
+
+code {
+  color: teal;
+}
+
+.half {
+  width: 50%;
+}

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\menu\\menu_shopping.xml",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\menu\\menu_shopping.xml"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\menu\\menu_single_product.xml",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\menu\\menu_single_product.xml"
+    }
+]

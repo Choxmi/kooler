@@ -1,0 +1,382 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <title>Soko App</title>
+
+    <link type="text/css" rel="stylesheet" href="assets/css/reset.css">
+    <link type="text/css" rel="stylesheet" href="http://yandex.st/highlightjs/6.1/styles/sunburst.min.css">
+    <link type="text/css" rel="stylesheet" href="assets/css/docs.css">
+    <link type="text/css" rel="stylesheet" href="assets/css/print.css" media="print">
+    <link type="text/css" rel="stylesheet" href="css/custom.css">
+
+    <script type="text/javascript" src="assets/js/jquery-1.10.1.min.js"></script>
+    <script type="text/javascript" src="http://yandex.st/highlightjs/6.1/highlight.min.js"></script>
+
+    
+
+    <script type="text/javascript">var BASE_URL = "";</script>
+    <script type="text/javascript" src="assets/js/viewer.js"></script>
+
+    
+</head>
+<body>
+    <div id="page">
+        <a name="top" />
+        
+<div id="sidebar">
+    
+    <nav id="toc">
+        
+    <ol>
+    
+        <li>
+            <a href="index.html#Soko">Soko</a>    
+            <ol>
+                <li>
+                    <a href="index.html#requirements">Requirements</a>
+                    
+                </li>
+            </ol>
+        </li>
+    
+        <li>
+            <a href="index.html#getting-started">Getting started</a>    
+            <ol>
+
+            <li>
+                    <a href="index.html#install-eclipse">Installing ADT Bundle</a>
+                    
+            </li>
+                <li>
+                    <a href="index.html#import-projects-in-adt-bundle">Import project into ADT Bundle</a>
+                    
+                </li>
+                 <li>
+                    <a href="index.html#add-lib">Add the AppCompat Library</a>
+                    
+            </li>
+             <li>
+                    <a href="index.html#troubleshoot">Troubleshoot</a>
+                    
+            </li>
+                
+            </ol>
+        </li>
+    
+        <li>
+  			<a href="index.html#customization">Customize</a>
+            
+                
+            <ol>
+            
+                
+            
+            
+                <li>
+                    <a href="index.html#change-launcher-icon">Change Launcher icon</a>                   
+                </li>
+            
+                <li>
+                    <a href="index.html#change-application-name">Change Application name</a>                  
+                </li>
+            
+            
+            </ol>
+
+            
+        </li>
+    
+        <li>
+            <a href="index.html#prepare-for-publishing">Prepare to Publish to app store</a>
+            
+            <ol>
+                <li>
+                    <a href="index.html#changing-package-name">Changing package name</a>
+                </li>
+
+                 <li>
+                    <a href="index.html#changing-package-name">Sign the application</a>
+                </li>
+
+                <li>
+                    <a href="index.html#upload">Upload to the Playstore</a>
+                </li>
+            
+            </ol>
+
+        </li>
+    
+        <li>
+            <a href="index.html#misc">Misc</a>                
+            <ol>
+            
+                <li>
+                    <a href="index.html#rating-suggestions">Rating &amp; Suggestions</a>
+                    
+                </li>
+            
+                <li>
+                    <a href="index.html#credits">Credits</a>
+                    
+                </li>
+            
+            </ol>
+        </li>
+    
+    </ol>
+
+    </nav>
+    
+    <nav id="links">
+        <ul>   
+        </ul>
+    </nav>
+    
+</div>
+
+        <div id="content">
+            <h1 id="Soko">Soko</h1>
+<p><strong>Soko</strong> is an android app for selling on a smartphone.  You will receive updates as we make progress. The system has two interfaces, the admin interface which is in the cloud and the client side which is in the form of an android app. Most of the configurations are done on the backend and the changes reflect on the app. </p>
+ <p>
+ In this document, I will walk you through the process of installing the php backend and then building the app upto placing the app on the playstore.</p>
+
+<h2 id="what-is-included">What do I get?</h2>
+    <p> I have provided a number of files to get you started. They include:</p>
+        <ol>
+            <li>The Soko php back end </li>
+            <li>The Android App source code </li>
+            <li>Library projects and dependancies required for the app to run </li>
+            <li>Some photoshop files to quickly get you started</li>
+        </ol>
+
+
+<h2 id="requirements">Android Requirements</h2>
+
+    <li>Latest <a href="http://developer.android.com/sdk/index.html">Eclipse ADT Bundle</a></li>
+    <li>Windows XP (32-bit), Vista (32- or 64-bit), or Windows 7 (32- or 64-bit) </li>
+<li>Mac OS X 10.5.8 or later (x86 only)</li>
+<li>Linux (tested on Ubuntu Linux, Lucid Lynx) </li>
+<li>GNU C Library (glibc) 2.7 or later is required. </li>
+<li>On Ubuntu Linux, version 8.04 or later is required.
+    64-bit distributions must be capable of running 32-bit applications. </li>
+</ul>
+
+<h2 id="server-requirements"> Server Requirements</h2>
+   <li>PHP version 5.1.6 or newer.
+<li>A Database is required for most web application programming. Current supported databases are MySQL (4.1+), MySQLi, MS SQL, Postgres, Oracle, SQLite, and ODBC.
+
+
+<h2 id="install-eclipse"> Intalling the Soko backend.</h2>
+<p>  
+        <ol>
+            <li>  Upload the backend the server, you can use ftp or the cpanel file manager (If you have cpanel)  </li>
+            <li> Create a database and user. And assign the user that database
+            <li> On your browser visit the location of the back end.
+            <li> You will be prompted for the database name and user that you set up in step 2. 
+            <li> Make sure that you check the option of removing the index.php from the url.
+            
+        </ol>
+
+<h2 id="install-eclipse"> Getting Started with the backend</h2>
+<p> 
+        <ol>
+            <li> Build the categories menu. To do so go to Catalogue -> Categories.
+            <li> Add products from Catalogue -> Products</li>
+            <li> Next add banners from Content -> Banners. </li>
+        </ol>
+        After doing this the backend is now ready. You can still do more, but this are the ones required for the app to work. 
+
+
+<h2 id="install-eclipse"> Intalling the latest version of Eclipse ADT.</h2>
+   <p>Soko is built with the latest Eclipse Luno version 4.4.0 and Android Development Tools 23.0.2.1259578. NOTE: There are several other tools to build and run android projects the second in popularity after Eclipse being Android Studio. If you do have Android Studio already installed you can skip installation of Eclipse section and go to Import sections. However, I would still advise you to install the Eclipse ADT all the same. 
+        <ol>
+            <li>    Go to the <a href = "http://developer.android.com/sdk/index.html" > Android Developer Page</a> </li>
+            <li> Download the Eclipse ADT. This should contain the latest version of ecipse and ADT plugin </li>
+            <li> Extract the files somewhere on your computer. </li>
+            <li> Run Eclipse.exe </li>
+        </ol>
+
+
+
+<h2 id="get-api-keys">  Get an API key from PayPal</h2>
+   <p> The current payment method being used is Paypal. If you are going to use it, you will need an API key from paypal. This whole process is docomented in detail at 
+   <a href = "https://developer.paypal.com/docs/integration/direct/make-your-first-call/"> the paypal developer page </a>
+        <ol>
+
+           <li>Log in to the <a href="https://developer.paypal.com/">Developer portal</a> with your PayPal account and navigate to the <a href="https://developer.paypal.com/webapps/developer/applications/myapps">My REST apps</a> page. Click Create App to begin the application-creation process. 
+           <li>
+           	Take note of the <code>Client ID</code> and enter it in the <code>config.java</code> file. This will be found at the <code>com.gilo.soko.config package.</code> 
+           </li>
+        </ol>
+
+            
+<h2 id="import-projects-in-adt-bundle">Import Soko Project to Eclipse</h2>
+	<ol>
+		<li> On Eclipse go to File -> Import </li>
+		<li>Choose Android -> Existing Android Code Into Workspace then click Next </li>
+		<li> Browse to the location of the folder called source folder. I </li>
+		<li>The folders should appear at the import window. </li>
+		<li> Check the "copy project into workspace" checkbox </li>
+		<li> Then click on Finish </li>
+		<li> Let eclipse finish building the three projects into your workspace. Don't worry about the errors indicated by red 'x' marks for now. Check the progress at the bottom right corner of eclipse. </li>
+
+	</ol>
+
+<h2 id="add-lib">Add the AppCompat </h2>
+	<ol>
+		<li> Once Eclipse is Done. You should have two folders on your workspace. If you not then probably you did not import the projects properly or left out one or the other. Just repeat step 2 above. 
+		<li> At this point Soko may have several errors. This is due to a missing library. Left Click on the Soko Library and go to Properties. </li>
+		<li> Select Android on the left sidebar. </li>
+		<li> Remove any library indicated in red 'x'. </li>
+		<li> The click Add and choose the AppCompat lib. </li>
+		<li>Repeat this for all the other library folders , that is the Sliding Menu folder, the Horizontal ListView folder ...</li>
+		
+		<li> Click apply </li>
+		 <li>Click finish. </li>
+
+		
+
+	</ol>
+	At this point there should be no more errors on the project.
+
+    <br/>
+    <br>
+    <br>
+
+
+<h2 id="troubleshoot">Troubleshooting Errors.</h2>
+	If you still have errors then it could mean:
+	<ol>
+		<li> You did not install eclipse properly. I would suggest create a new dummy android project. Go to File -> New Android Application.</li>
+		<li> Enter the app name. Just press next until the end. </li>
+		<li> Once Eclipse is done building, check if the new project also has errors. 
+			
+			<br/>
+			<b> A.) </b> If it does have errors, then ADT plugin was not setup properly. 
+				
+				Update the ADT plugin 
+				NOTE: This should really not happen if you installed Eclipse ADT bundle from step 1. If it does and not seem to be working then contact us immediately.
+
+				<br/>
+				<br/>
+			<b> B.) </b> If it does not have errors then the problem lies on the source file. Make sure you have imported correctly. If you did not use step 1 above, then maybe it could be something wrong with your Android Development Setup. Consider checking for updates. 
+
+			
+			</li>
+
+	</ol>
+	At this point there should be no more errors on the project.
+
+
+<h2 id="Config">  App Confiurations</h2>
+   
+        <ol>
+
+           <li> Open the <code>config.java</code> file. This will be found at the <code>com.gilo.soko.config package.</code> </li>
+           <li>Change the <code>STORE_URL</code> to the url to your backend</li>
+           <li>Add a <code>FLATRATE_SHIPPING</code>. This is the cost of shipping. This is the current method of shipping.
+        </ol>
+
+
+        
+<h2 id="run">Run Soko</h2>
+    <ol>
+                    
+        <li> You can run your android applications on your phone or emulator. Start the emulator or plug in the phone into the computer. </li>
+        <li> Left Click on the Soko Folder then Run As -> Android Application. </li>
+        <li> In the next dialog, you should see the phone you plugged in as one of the devices. If you phone is not indicated then the phone drivers is not installed on the computer. (Tip: The apk file is found in the bin directory, you can directly copy into the phone and install from the phone) </li>
+        <li> Eclipse will launch an emultaor if no device is found. </li>
+
+    </ol>
+
+
+<h1 id="prepare-for-publishing">Prepare to Publish the app</h1>
+        <p>Before publishing the application to Google Play, make sure you have:</p>
+        <ol>
+            <li><a href="#change-launcher-icon">Change the launcher icon</a> in <code>res/drawable-*/ic_launcher.png</code></li>
+            <li><a href="#change-application-name">Change the application name</a> in <code>res/values/strings.xml</code></li>
+            <li><a href="#changing-package-name">Change the package name</a> in <code>AndroidManifest.xml</code></li>
+        </ol>
+
+<h2 id="change-launcher-icon">Change Launcher icon</h2>
+        <p>Replace the following files in the <code>res</code> folder, with your own icon named <code>ic_launcher.png</code> :</p>
+        <ul>
+        <li><code>res/drawable-hdpi/ic_launcher.png</code> with 72x72 px</li>
+        <li><code>res/drawable-xhdpi/ic_launcher.png</code> with 96x96 px</li>
+        <li><code>res/drawable-xxhdpi/ic_launcher.png</code> with 144x144 px</li>
+        <li><code>res/drawable-xxxhdpi/ic_launcher.png</code> with 192x192 px</li>
+        </ul>
+        <p><strong>Note:</strong> You need the 512x512 px size for publishing to Google Play.</p>
+
+<h2 id="change-application-name">Change Application name</h2>
+        <p>The application name can be changed from the <code>strings.xml</code> file in the values folder. 
+        <ol>
+        <li> Open the <code>res</code> folder</li>
+        <li>Navigate to the values folder and open the strings.xml file</li>
+        <li>Change the <code>app_name</code> value to the name you want</li>
+        </ol>
+        
+
+<h2 id="changing-package-name">Changing package name</h2>
+        <p>Every application in Google Play has an unique application name usually in the form of <code>com.example.app</code>. Before you can publish your application you need to change the application name to something unique (like use your domain as prefix in reverse order). To change it, you need to:</p>
+        <ol>
+            <li>Run ADT and open the project</li>
+            <li>Right click on the project</li>
+            <li>From the popup menu select <code>Android Tools</code>-&gt;<code>Rename Application Package</code>
+            <li>Enter your new package name and press <code>OK</code>
+            <li>Press <code>Finish</code>
+            <li>Then go to <code>res/strings.xml</code> and change the package_name string entry to your new package name</li>
+
+            <br/>
+        </ol>
+        <p>That&#39;s it.</p>
+
+<h2 id="upload">Uploading to the Playstore</h2>
+        <p>A unique signed application needs to be sent to the playstore. To do that: </p>
+        <ol>
+        <li>First make sure that Lint Errror checking has been turned off. To do that go to Preference -> Android </li>
+        <li>Select Lint Error Checking </li>
+        <li> Uncheck the "Run full error checking when expoting app" </li>
+        <li> Click on apply then OK </li>
+    </ol>
+
+        Now we can export the app:
+        <ol>      
+            <li>Left click on the project and go to Android Tools</li>
+            <li>Click on the "Export Signed Application"</li>
+            <li>Create a new keystore </li>
+            <li>Set the password </li>
+            <li>Set you alias 
+            <li>Select the location of where to save the apk </li>
+            <br/>
+        </ol>
+        <p>That&#39;s it.</p>
+
+
+
+<h2 id="rating-suggestions">Rating &amp; Suggestions</h2>
+<p>Go ahead and give us a 5. We know we are the best</p>
+<p>If you got any suggestion us or feautures tell us about it at the comment section or email me Soko@kimutai.org</p>
+
+<h2 id="credits">Credits</h2>
+<ul>
+    <li><a href="#">Helvetica Font </a> </li>
+    
+</ul>
+
+
+<p>Once again, thank you so much for purchasing this theme.</p>
+
+
+
+
+        </div>
+       <footer id="footer">
+            
+            <a> Contact me at gilbertkimutai@gmail.com </a>
+            
+        </footer>
+    </div>
+</body>
+</html>

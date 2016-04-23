@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.gilo.soko.MainActivity" >
+
+    <item
+        android:id="@+id/mnProgress"
+        
+        android:icon="@drawable/search"
+        android:title="Progress"
+        android:visible="false"
+        
+        app:showAsAction="always"/>
+    
+    <item
+        android:id="@+id/mnSearch"
+        android:actionProviderClass="android.widget.ShareActionProvider"
+        android:icon="@drawable/search"
+        android:title="Search"
+        app:actionViewClass="android.widget.SearchView"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/mnCart"
+        
+        android:icon="@drawable/cart0"
+        android:title="Cart"
+        app:showAsAction="always"/>
+     <item
+        android:id="@+id/mnAbout"
+        android:icon="@drawable/ic_launcher"
+        android:showAsAction="never"
+        android:title="About"/>
+    <item
+        android:id="@+id/mnShippingInfo"
+        android:icon="@drawable/ic_launcher"
+        android:showAsAction="never"
+        android:title="Shipping Information"/>
+    <item
+        android:id="@+id/mnPurchaseItems"
+        android:icon="@drawable/ic_launcher"
+        android:showAsAction="never"
+        android:title="Purchased Items"/>
+    <item
+        android:id="@+id/mnFavoriteItems"
+        android:icon="@drawable/ic_launcher"
+        android:showAsAction="never"
+        android:title="Favorite Items"/>
+   <item
+        android:id="@+id/mnContactUs"
+        android:icon="@drawable/ic_launcher"
+        android:showAsAction="never"
+        android:title="Contact Us"/>
+    
+    <item
+        android:id="@+id/mnLogin"
+        android:icon="@drawable/ic_launcher"
+        android:showAsAction="never"
+        android:title="Login"/>
+    
+    
+    
+
+</menu>

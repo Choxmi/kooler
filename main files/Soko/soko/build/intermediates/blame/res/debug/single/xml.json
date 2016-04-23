@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\xml\\items.xml",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\xml\\items.xml"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\xml\\searchable.xml",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\xml\\searchable.xml"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\xml\\banners.xml",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\xml\\banners.xml"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\xml\\categories.xml",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\xml\\categories.xml"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\xml\\countries.xml",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\xml\\countries.xml"
+    }
+]

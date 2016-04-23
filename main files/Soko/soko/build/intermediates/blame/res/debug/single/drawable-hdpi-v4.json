@@ -1,0 +1,598 @@
+[
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\eye.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\drawable-hdpi\\eye.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\plus.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\drawable-hdpi\\plus.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\paypal_logo2.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\drawable-hdpi\\paypal_logo2.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_bottom_transparent_dark_holo.9.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ab_bottom_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_divider_holo_dark.9.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_list_divider_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vpi__tab_unselected_pressed_holo.9.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\exploded-aar\\Soko\\pagerlibrary\\unspecified\\res\\drawable-hdpi-v4\\vpi__tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cart5plus.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\drawable-hdpi\\cart5plus.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\basket.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\drawable-hdpi\\basket.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_go_search_api_holo_light.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_go_search_api_holo_light.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\google_plus.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\drawable-hdpi\\google_plus.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\love_red.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\drawable-hdpi\\love_red.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_icon_heart.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\drawable-hdpi\\ic_icon_heart.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_edit.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\drawable-hdpi\\ic_action_edit.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_transparent_light_holo.9.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ab_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\basket3.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\drawable-hdpi\\basket3.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vpi__tab_selected_focused_holo.9.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\exploded-aar\\Soko\\pagerlibrary\\unspecified\\res\\drawable-hdpi-v4\\vpi__tab_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_solid_light_holo.9.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ab_solid_light_holo.9.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_transparent_dark_holo.9.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ab_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\star_grey_24.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\drawable-hdpi\\star_grey_24.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_cart.jpg",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\drawable-hdpi\\ic_cart.jpg"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_ab_logo.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\drawable-hdpi\\ic_ab_logo.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_ratings.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\drawable-hdpi\\ic_ratings.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\action_cart.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\drawable-hdpi\\action_cart.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\star_grey_40.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\drawable-hdpi\\star_grey_40.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\twitter.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\drawable-hdpi\\twitter.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_camera.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\drawable-hdpi\\ic_action_camera.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_ab_back_holo_dark.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_ab_back_holo_dark.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_clear_search_api_disabled_holo_light.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_clear_search_api_disabled_holo_light.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_go.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_go.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\drop_down_indicator.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\drawable-hdpi\\drop_down_indicator.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\info.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\drawable-hdpi\\info.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_selected_holo_light.9.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_textfield_search_selected_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\add_comment.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\drawable-hdpi\\add_comment.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_voice_search_api_holo_light.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_voice_search_api_holo_light.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_solid_dark_holo.9.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ab_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_menu_hardkey_panel_holo_dark.9.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_menu_hardkey_panel_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\youtube.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\drawable-hdpi\\youtube.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_tab_unselected_pressed_holo.9.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vpi__tab_selected_pressed_holo.9.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\exploded-aar\\Soko\\pagerlibrary\\unspecified\\res\\drawable-hdpi-v4\\vpi__tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_ab_pressed_holo_dark.9.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_spinner_ab_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_search.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_search.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\facebook.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\drawable-hdpi\\facebook.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_right_selected_holo_dark.9.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_textfield_search_right_selected_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\paypal_logo.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\drawable-hdpi\\paypal_logo.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg.jpg",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\drawable-hdpi\\bg.jpg"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cart10plus.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\drawable-hdpi\\cart10plus.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\banner_hot.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\drawable-hdpi\\banner_hot.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\hlv_overscroll_glow.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\exploded-aar\\Soko\\hListViewLibrary\\unspecified\\res\\drawable-hdpi-v4\\hlv_overscroll_glow.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_clear_normal.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_clear_normal.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cart4.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\drawable-hdpi\\cart4.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pencil.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\drawable-hdpi\\pencil.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_default_holo_dark.9.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_textfield_search_default_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\star_yellow_24.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\drawable-hdpi\\star_yellow_24.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_ab_focused_holo_light.9.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_spinner_ab_focused_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\arrow.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\drawable-hdpi\\arrow.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_ab_default_holo_light.9.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_spinner_ab_default_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cart3.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\drawable-hdpi\\cart3.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_share_pack_holo_dark.9.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ab_share_pack_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\star_yellow_32.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\drawable-hdpi\\star_yellow_32.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_cab_background_top_holo_dark.9.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_cab_background_top_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_right_default_holo_light.9.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_textfield_search_right_default_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\placeholder.jpg",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\drawable-hdpi\\placeholder.jpg"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_selected_holo_dark.9.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_textfield_search_selected_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_stacked_solid_light_holo.9.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ab_stacked_solid_light_holo.9.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cart2.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\drawable-hdpi\\cart2.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\love.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\drawable-hdpi\\love.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pinterest.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\drawable-hdpi\\pinterest.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_stacked_transparent_dark_holo.9.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ab_stacked_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\drawable-hdpi\\search.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_stacked_solid_dark_holo.9.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ab_stacked_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_share_holo_dark.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_menu_share_holo_dark.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_ab_default_holo_dark.9.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_spinner_ab_default_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_ab_disabled_holo_dark.9.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_spinner_ab_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\banner.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\drawable-hdpi\\banner.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\banner_new.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\drawable-hdpi\\banner_new.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_commit_search_api_holo_light.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_commit_search_api_holo_light.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\check.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\drawable-hdpi\\check.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cart.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\drawable-hdpi\\cart.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cart1.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\drawable-hdpi\\cart1.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_search_api_holo_light.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_search_api_holo_light.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_icon_info.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\drawable-hdpi\\ic_icon_info.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_right_default_holo_dark.9.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_textfield_search_right_default_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_tab_selected_pressed_holo.9.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_shopping.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\drawable-hdpi\\icon_shopping.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\star_grey_32.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\drawable-hdpi\\star_grey_32.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_share_pack_holo_light.9.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ab_share_pack_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_cab_done_holo_dark.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_cab_done_holo_dark.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\star_yellow.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\drawable-hdpi\\star_yellow.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_cab_background_top_holo_light.9.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_cab_background_top_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_menu_hardkey_panel_holo_light.9.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_menu_hardkey_panel_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_menu_dropdown_panel_holo_dark.9.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_menu_dropdown_panel_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_cab_background_bottom_holo_light.9.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_cab_background_bottom_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\converse1.jpg",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\drawable-hdpi\\converse1.jpg"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\hlv_overscroll_edge.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\exploded-aar\\Soko\\hListViewLibrary\\unspecified\\res\\drawable-hdpi-v4\\hlv_overscroll_edge.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_payment_methods.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\drawable-hdpi\\ic_payment_methods.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_clear_search_api_holo_light.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_clear_search_api_holo_light.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cart5.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\drawable-hdpi\\cart5.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\banner_final.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\drawable-hdpi\\banner_final.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_ab_back_holo_light.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_ab_back_holo_light.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_bottom_solid_light_holo.9.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ab_bottom_solid_light_holo.9.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cart0.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\drawable-hdpi\\cart0.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\creditcards.jpg",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\drawable-hdpi\\creditcards.jpg"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_icon_comment.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\drawable-hdpi\\ic_icon_comment.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_moreoverflow_normal_holo_dark.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_menu_moreoverflow_normal_holo_dark.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_ab_disabled_holo_light.9.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_spinner_ab_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_share_holo_light.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_menu_share_holo_light.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_icon_cart.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\drawable-hdpi\\ic_icon_cart.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_icon_options.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\drawable-hdpi\\ic_icon_options.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_divider_holo_light.9.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_list_divider_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_commit_search_api_holo_dark.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_commit_search_api_holo_dark.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vpi__tab_unselected_holo.9.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\exploded-aar\\Soko\\pagerlibrary\\unspecified\\res\\drawable-hdpi-v4\\vpi__tab_unselected_holo.9.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_cab_background_bottom_holo_dark.9.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_cab_background_bottom_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_ab_pressed_holo_light.9.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_spinner_ab_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\email.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\drawable-hdpi\\email.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vpi__tab_unselected_focused_holo.9.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\exploded-aar\\Soko\\pagerlibrary\\unspecified\\res\\drawable-hdpi-v4\\vpi__tab_unselected_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_voice_search.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_voice_search.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\converse_navy1.jpg",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\drawable-hdpi\\converse_navy1.jpg"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\instagram.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\drawable-hdpi\\instagram.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_right_selected_holo_light.9.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_textfield_search_right_selected_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\action_search.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\drawable-hdpi\\action_search.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_stacked_transparent_light_holo.9.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ab_stacked_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\star_grey.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\drawable-hdpi\\star_grey.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_ab_focused_holo_dark.9.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_spinner_ab_focused_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shopping_bag.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\drawable-hdpi\\shopping_bag.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_bottom_solid_dark_holo.9.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ab_bottom_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_orders.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\drawable-hdpi\\ic_orders.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_clear_disabled.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_clear_disabled.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_menu_dropdown_panel_holo_light.9.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_menu_dropdown_panel_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\drawable-hdpi\\chat.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_default_holo_light.9.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_textfield_search_default_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_shipping_options.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\drawable-hdpi\\ic_shipping_options.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\test_ban.jpg",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\drawable-hdpi\\test_ban.jpg"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\star_yellow_40.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\drawable-hdpi\\star_yellow_40.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_bottom_transparent_light_holo.9.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ab_bottom_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_moreoverflow_normal_holo_light.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_menu_moreoverflow_normal_holo_light.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vpi__tab_selected_holo.9.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\exploded-aar\\Soko\\pagerlibrary\\unspecified\\res\\drawable-hdpi-v4\\vpi__tab_selected_holo.9.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_cab_done_holo_light.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_cab_done_holo_light.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_icon_search.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\drawable-hdpi\\ic_icon_search.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\banner3.jpg",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\drawable-hdpi\\banner3.jpg"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_search.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\src\\main\\res\\drawable-hdpi\\icon_search.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_tab_selected_holo.9.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_tab_selected_holo.9.png"
+    },
+    {
+        "merged": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_tab_selected_focused_holo.9.png",
+        "source": "D:\\My Projects\\Freelancer\\Kooler\\main files\\Soko\\soko\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_tab_selected_focused_holo.9.png"
+    }
+]

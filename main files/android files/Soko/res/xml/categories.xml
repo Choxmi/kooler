@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<categories>
+    <!-- 
+    	Shoes -> Men -> Sneakers -> Color
+    	Shoes -> Men -> Boots -> Color
+    	Shoes -> Women -> Boots
+    	Shoes -> Women -> Heels
+    	Shoes -> Women -> Sandals
+    	
+    	Bags
+    	Clothing
+    	Jewelry
+    	
+    
+     -->
+     <category>
+        <slug>none</slug>
+        <parent>parent</parent>
+        <name>Categories</name>
+    </category>
+     
+     
+    <category>
+        <slug>shoes</slug>
+        <parent>none</parent>
+        <name>Shoes</name>
+    </category>
+    
+    <category>
+        <slug>men</slug>
+        <parent>shoes</parent>
+        <name>Men</name>
+    </category>
+    
+    <category>
+        <slug>women</slug>
+        <parent>shoes</parent>
+        <name>Women</name>
+    </category>
+    
+    <category>
+        <slug>sneakers</slug>
+        <parent>men</parent>
+        <name>Sneakers</name>
+    </category>
+    
+    <category>
+        <slug>boots</slug>
+        <parent>men, women</parent>
+        <name>Boots</name>
+    </category>
+    
+    <category>
+        <slug>heels</slug>
+        <parent>women</parent>
+        <name>Heels</name>
+    </category>
+    
+    <category>
+        <slug>sandals</slug>
+        <parent>women</parent>
+        <name>Sandals</name>
+    </category>
+    
+    <category>
+        <slug>bags</slug>
+        <parent>none</parent>
+        <name>Bags</name>
+    </category>
+    
+    <category>
+        <slug>clothing</slug>
+        <parent>none</parent>
+        <name>Clothing</name>
+    </category>
+    
+    <category>
+        <slug>jewelry</slug>
+        <parent>none</parent>
+        <name>Jewelry</name>
+    </category>
+    
+    <category>
+        <slug>converse</slug>
+        <parent>sneakers</parent>
+        <name>Converse</name>
+    </category>
+    
+     <category>
+        <slug>more-converse</slug>
+        <parent>converse</parent>
+        <name>More Converse</name>
+    </category>
+    
+</categories>

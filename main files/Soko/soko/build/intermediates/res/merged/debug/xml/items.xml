@@ -1,0 +1,766 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<items>
+    
+    <item>
+	    <id>15</id>
+	    <name>Open Hands </name>
+	    <shop>Lifetime Collective </shop>
+	    <tags>Clothing, Shirts, Tops </tags>
+	    <category>Shirt, Tops</category>
+	    <review> 3.5</review>
+	    <featured-image>openhands_black1</featured-image>
+	    <price>44.95</price>
+	    <new>false</new>
+	    <hot>false</hot>
+	    <stock>HOT!</stock>
+	    
+	    <options>
+	       <option name="color" style="images">
+	            <color image="openhands_black1" color_id="black">Black</color>
+	            <color image="openhands_gray1" color_id = "gray">Dark Heather Gray</color>
+	                     
+	        </option>
+	       
+	       <option name="size" style="text">
+	            <size>Men's SM</size>
+	            <size>Men's MD</size>
+	            <size>Men's LG</size>
+	            <size>Men's XL</size>
+	            
+    		</option>
+	       
+	    </options>
+	    
+	    <images>
+	         <image color_id="black">openhands_black1</image>
+	         <image color_id="black">openhands_black2</image>
+	         <image color_id="black">openhands_black3</image>
+  
+	         <image color_id="gray">openhands_gray1</image>
+	         <image color_id="gray">openhands_gray2</image>
+	         <image color_id="gray">openhands_gray3</image>
+
+	    </images>
+	    
+	    <info>&#9679; Sold as a one-pair pack.
+&#9679; Over-the-calf sock.
+&#9679; Dri-FIT fabric wicks moisture away from the skin.
+&#9679; Compression fit adds support and stability.
+&#9679; Cuff offers a secure fit.
+&#9679; Banded arch.
+&#9679; 83% polyester, 6% nylon, 6% cotton, 5% Spandex.
+&#9679; Machine wash cold. Tumble dry low.
+&#9679; Imported.
+	    </info>
+	</item>
+	
+     <item>
+	    <id>14</id>
+	    <name>Black Chuck Taylor® </name>
+	    <shop>Converse</shop>
+	    <tags>Shoes, Sneakers </tags>
+	    <category>Shoes</category>
+	    <review> 5</review>
+	    <featured-image>converse_black2</featured-image>
+	    <price>44.95</price>
+	    <new>true</new>
+	    <hot>false</hot>
+	    <stock>HOT!</stock>
+	    
+	    <options>
+	       <option name="color" style="images">
+	            <color image="converse_black1" color_id="black">Black</color>
+	            <color image="converse_charcoal1" color_id = "charcoal">Charcoal</color>
+	            <color image="converse_red1" color_id="red">Red</color>
+	            
+	            <color image="converse_navy1" color_id = "navy">Black</color>	          
+	        </option>
+	       
+	       <option name="size" style="text">
+	            <size>Men's 3</size>
+	            <size>Men's 4</size>
+	            <size>Men's 5</size>
+	            <size>Men's 6</size>
+	            <size>Men's 7</size>
+	            <size>Men's 8</size>
+	            <size>Men's 9</size>
+	            <size>Men's 10</size>
+	            <size>Men's 11</size>
+    		</option>
+	       
+	    </options>
+	    
+	    <images>
+	         <image color_id="red">converse_red1</image>
+	         <image color_id="red">converse_red2</image>
+	         <image color_id="red">converse_red3</image>
+	         <image color_id="red">converse_red4</image>
+	         <image color_id="red">converse_red5</image>
+	         <image color_id="red">converse_red6</image>
+	         <image color_id="red">converse_red7</image>
+	         
+	         <image color_id="charcoal">converse_charcoal1</image>
+	         <image color_id="charcoal">converse_charcoal2</image>
+	         <image color_id="charcoal">converse_charcoal3</image>
+	         <image color_id="charcoal">converse_charcoal4</image>
+	         
+	         <image color_id="black">converse_black1</image>
+	         <image color_id="black">converse_black2</image>
+	         <image color_id="black">converse_black3</image>
+	         <image color_id="black">converse_black4</image>
+	         
+	         <image color_id="navy">converse_navy1</image>
+	         <image color_id="navy">converse_navy2</image>
+	         <image color_id="navy">converse_navy3</image>
+	         <image color_id="navy">converse_navy4</image>
+	        
+	    </images>
+
+	    <info>&#9679; Sold as a one-pair pack.
+&#9679; Over-the-calf sock.
+&#9679; Dri-FIT fabric wicks moisture away from the skin.
+&#9679; Compression fit adds support and stability.
+&#9679; Cuff offers a secure fit.
+&#9679; Banded arch.
+&#9679; 83% polyester, 6% nylon, 6% cotton, 5% Spandex.
+&#9679; Machine wash cold. Tumble dry low.
+&#9679; Imported.
+	    </info>
+	</item>
+	
+    
+	
+    <item>
+	    <id>13</id>
+	    <name>Navy Chuck Taylor® </name>
+	    <shop>Converse</shop>
+	    <tags>Shoes, Sneakers </tags>
+	    <category>Shoes</category>
+	    <review> 5</review>
+	    <featured-image>converse_navy3</featured-image>
+	    <price>44.95</price>
+	    <new>false</new>
+	    <hot>false</hot>
+	    <stock>HOT!</stock>
+	    
+	    <options>
+	       <option name="color" style="images">
+	            <color image="converse_navy1" color_id="navy">Navy</color>
+	            <color image="converse_charcoal1" color_id = "charcoal">Charcoal</color>
+	            <color image="converse_red1" color_id="red">Red</color>
+	            <color image="converse_black1" color_id = "black">Black</color>	          
+	        </option>
+	       
+	       <option name="size" style="text">
+	            <size>Men's 3</size>
+	            <size>Men's 4</size>
+	            <size>Men's 5</size>
+	            <size>Men's 6</size>
+	            <size>Men's 7</size>
+	            <size>Men's 8</size>
+	            <size>Men's 9</size>
+	            <size>Men's 10</size>
+	            <size>Men's 11</size>
+    		</option>
+	       
+	    </options>
+	    
+	    <images>
+	         <image color_id="red">converse_red1</image>
+	         <image color_id="red">converse_red2</image>
+	         <image color_id="red">converse_red3</image>
+	         <image color_id="red">converse_red4</image>
+	         <image color_id="red">converse_red5</image>
+	         <image color_id="red">converse_red6</image>
+	         <image color_id="red">converse_red7</image>
+	         
+	         <image color_id="charcoal">converse_charcoal1</image>
+	         <image color_id="charcoal">converse_charcoal2</image>
+	         <image color_id="charcoal">converse_charcoal3</image>
+	         <image color_id="charcoal">converse_charcoal4</image>
+	         
+	         <image color_id="black">converse_black1</image>
+	         <image color_id="black">converse_black2</image>
+	         <image color_id="black">converse_black3</image>
+	         <image color_id="black">converse_black4</image>
+	         
+	         <image color_id="navy">converse_navy1</image>
+	         <image color_id="navy">converse_navy2</image>
+	         <image color_id="navy">converse_navy3</image>
+	         <image color_id="navy">converse_navy4</image>
+	        
+	    </images>
+
+	    <info>&#9679; Sold as a one-pair pack.
+&#9679; Over-the-calf sock.
+&#9679; Dri-FIT fabric wicks moisture away from the skin.
+&#9679; Compression fit adds support and stability.
+&#9679; Cuff offers a secure fit.
+&#9679; Banded arch.
+&#9679; 83% polyester, 6% nylon, 6% cotton, 5% Spandex.
+&#9679; Machine wash cold. Tumble dry low.
+&#9679; Imported.
+	    </info>
+	</item>
+    
+    
+    <item>
+	    <id>12</id>
+	    <name>Charcoal Chuck Taylor® </name>
+	    <shop>Converse </shop>
+	    <tags>Shoes, Sneakers </tags>
+	    <category>Shoes</category>
+	    <review> 5</review>
+	    <featured-image>converse_charcoal1</featured-image>
+	    <price>44.95</price>
+	    <new>false</new>
+	    <hot>false</hot>
+	    <stock>HOT!</stock>
+	    
+	    <options>
+	       <option name="color" style="images">
+	            
+	            <color image="converse_charcoal1" color_id = "charcoal">Charcoal</color>
+	            <color image="converse_red1" color_id="red">Red</color>
+	            <color image="converse_navy1" color_id="navy">Navy</color>
+	            <color image="converse_black1" color_id = "black">Black</color>	          
+	        </option>
+	       
+	       <option name="size" style="text">
+	            <size>Men's 3</size>
+	            <size>Men's 4</size>
+	            <size>Men's 5</size>
+	            <size>Men's 6</size>
+	            <size>Men's 7</size>
+	            <size>Men's 8</size>
+	            <size>Men's 9</size>
+	            <size>Men's 10</size>
+	            <size>Men's 11</size>
+    		</option>
+	       
+	    </options>
+	    
+	    <images>
+	         <image color_id="red">converse_red1</image>
+	         <image color_id="red">converse_red2</image>
+	         <image color_id="red">converse_red3</image>
+	         <image color_id="red">converse_red4</image>
+	         <image color_id="red">converse_red5</image>
+	         <image color_id="red">converse_red6</image>
+	         <image color_id="red">converse_red7</image>
+	         
+	         <image color_id="charcoal">converse_charcoal1</image>
+	         <image color_id="charcoal">converse_charcoal2</image>
+	         <image color_id="charcoal">converse_charcoal3</image>
+	         <image color_id="charcoal">converse_charcoal4</image>
+	         
+	         <image color_id="black">converse_black1</image>
+	         <image color_id="black">converse_black2</image>
+	         <image color_id="black">converse_black3</image>
+	         <image color_id="black">converse_black4</image>
+	         
+	         <image color_id="navy">converse_navy1</image>
+	         <image color_id="navy">converse_navy2</image>
+	         <image color_id="navy">converse_navy3</image>
+	         <image color_id="navy">converse_navy4</image>
+	        
+	    </images>
+
+	    <info>&#9679; Sold as a one-pair pack.
+&#9679; Over-the-calf sock.
+&#9679; Dri-FIT fabric wicks moisture away from the skin.
+&#9679; Compression fit adds support and stability.
+&#9679; Cuff offers a secure fit.
+&#9679; Banded arch.
+&#9679; 83% polyester, 6% nylon, 6% cotton, 5% Spandex.
+&#9679; Machine wash cold. Tumble dry low.
+&#9679; Imported.
+	    </info>
+	</item>
+    
+    <item>
+	    <id>11</id>
+	    <name>Chuck Taylor® </name>
+	    <shop>Converse  Red</shop>
+	    <tags>Shoes, Sneakers </tags>
+	    <category>Shoes</category>
+	    <review> 5</review>
+	    <featured-image>converse_red1</featured-image>
+	    <price>44.95</price>
+	    <new>false</new>
+	    <hot>false</hot>
+	    <stock>HOT!</stock>
+	    
+	    <options>
+	       <option name="color" style="images">
+	            <color image="converse_red1" color_id="red">Red</color>
+	            <color image="converse_charcoal1" color_id = "charcoal">Charcoal</color>
+	            <color image="converse_navy1" color_id="navy">Navy</color>
+	            <color image="converse_black1" color_id = "black">Black</color>	          
+	        </option>
+	       
+	       <option name="size" style="text">
+	            <size>Men's 3</size>
+	            <size>Men's 4</size>
+	            <size>Men's 5</size>
+	            <size>Men's 6</size>
+	            <size>Men's 7</size>
+	            <size>Men's 8</size>
+	            <size>Men's 9</size>
+	            <size>Men's 10</size>
+	            <size>Men's 11</size>
+    		</option>
+	       
+	    </options>
+	    
+	    <images>
+	         <image color_id="red">converse_red1</image>
+	         <image color_id="red">converse_red2</image>
+	         <image color_id="red">converse_red3</image>
+	         <image color_id="red">converse_red4</image>
+	         <image color_id="red">converse_red5</image>
+	         <image color_id="red">converse_red6</image>
+	         <image color_id="red">converse_red7</image>
+	         
+	         <image color_id="charcoal">converse_charcoal1</image>
+	         <image color_id="charcoal">converse_charcoal2</image>
+	         <image color_id="charcoal">converse_charcoal3</image>
+	         <image color_id="charcoal">converse_charcoal4</image>
+	         
+	         <image color_id="black">converse_black1</image>
+	         <image color_id="black">converse_black2</image>
+	         <image color_id="black">converse_black3</image>
+	         <image color_id="black">converse_black4</image>
+	         
+	         <image color_id="navy">converse_navy1</image>
+	         <image color_id="navy">converse_navy2</image>
+	         <image color_id="navy">converse_navy3</image>
+	         <image color_id="navy">converse_navy4</image>
+	        
+	    </images>
+	    
+	    <info>&#9679; Sold as a one-pair pack.
+&#9679; Over-the-calf sock.
+&#9679; Dri-FIT fabric wicks moisture away from the skin.
+&#9679; Compression fit adds support and stability.
+&#9679; Cuff offers a secure fit.
+&#9679; Banded arch.
+&#9679; 83% polyester, 6% nylon, 6% cotton, 5% Spandex.
+&#9679; Machine wash cold. Tumble dry low.
+&#9679; Imported.
+	    </info>
+	</item>
+
+    <item>
+	    <id>10</id>
+	    <name> Vacuum Carafe </name>
+	    <shop> Zojirushi  </shop>
+	    <tags>Kitchen, Coffee </tags>
+	    <category>Kitchen</category>
+	    <review> 4.5</review>
+	    <featured-image>carafe_orange</featured-image>
+	    <price>60</price>
+	    <new>false</new>
+	    <hot>false</hot>
+	    <stock>SHIPS FREE!</stock>
+	    
+	    <options>
+	       <option name="color" style="images">
+	            <color image="carafe_orange" color_id="orange">Orange</color>
+	            <color image="carafe_stainless" color_id = "stainless">Stainless</color>	
+	                        
+	        </option>
+	    </options>
+	    
+	    <images>
+	         <image color_id="stainless">carafe_stainless</image>
+	         <image color_id="orange">carafe_orange</image>
+	        
+	    </images>
+	    
+	    <info>&#9679; Sold as a one-pair pack.
+&#9679; Over-the-calf sock.
+&#9679; Dri-FIT fabric wicks moisture away from the skin.
+&#9679; Compression fit adds support and stability.
+&#9679; Cuff offers a secure fit.
+&#9679; Banded arch.
+&#9679; 83% polyester, 6% nylon, 6% cotton, 5% Spandex.
+&#9679; Machine wash cold. Tumble dry low.
+&#9679; Imported.
+	    </info>
+	</item>
+	
+    
+    <item>
+	    <id>9</id>
+	    <name> Elite Basketball Sock</name>
+	    <shop> Nike</shop>
+	    <tags>Sock, Nike, Basketball </tags>
+	    <category>Clothing, Socks, Nike</category>
+	    <review> 4.5</review>
+	    <featured-image>sock_volt</featured-image>
+	    <price>20</price>
+	    <new>false</new>
+	    <hot>false</hot>
+	    <stock>SHIPS FREE!</stock>
+	    
+	    <options>
+	       <option name="color" style="images">
+	            <color image="sock_volt" color_id="black">Volt / Black</color>
+	            <color image="sock_red" color_id="red">University Red</color>	
+	            <color image="sock_white" color_id="white">Neutral Grey</color>            
+	        </option>
+	        
+	        <option name="size" style="text">
+	            <size>Men's Shoe 8-12</size>
+    		</option>
+	    </options>
+	    
+	    <images>
+	         <image color_id="black">sock_volt</image>
+	         <image color_id="red">sock_red</image>
+	         <image color_id="white">sock_white</image>
+	        
+	    </images>
+	    
+	    <info>&#9679; Sold as a one-pair pack.
+&#9679; Over-the-calf sock.
+&#9679; Dri-FIT fabric wicks moisture away from the skin.
+&#9679; Compression fit adds support and stability.
+&#9679; Cuff offers a secure fit.
+&#9679; Banded arch.
+&#9679; 83% polyester, 6% nylon, 6% cotton, 5% Spandex.
+&#9679; Machine wash cold. Tumble dry low.
+&#9679; Imported.
+	    </info>
+	</item>
+    
+    
+    <item>
+	    <id>8</id>
+	    <name> Swiftwater Sandal</name>
+	    <shop> Crocs</shop>
+	    <tags>Crocs, Sandals, Swiftwater, Men, Shoes </tags>
+	    <category>Men, Shoes, Sandals, Crocs</category>
+	    <review> 4.5</review>
+	    <featured-image>swiftwater_charcoal1</featured-image>
+	    <price>40</price>
+	    <new>false</new>
+	    <hot>false</hot>
+	    <stock>SHIPS FREE!</stock>
+	      <options>  
+	       <option name="size" style="text">
+	            <size>Men's 7</size>
+	            <size>Men's 8</size>
+	            <size>Men's 9</size>
+	            <size>Men's 10</size>
+	            <size>Men's 11</size>
+	            <size>Men's 12</size>
+	            <size>Men's 13</size>
+	        </option>
+    
+	    </options>
+	    
+	    <images>
+	         <image color_id = "default">swiftwater_charcoal1</image>
+	        <image color_id = "default">swiftwater_charcoal2</image>
+	    </images>
+	    
+	    <info>&#9679; The Swiftwater Sandal is for the outdoor enthusiast who knows how to have a good time no matter what he's doing!
+&#9679; Textile upper is stretchable and flexible for any occasion.
+&#9679; Hook-and-loop closure for easy on and off.
+&#9679; Man-made lining for all-day wear.
+&#9679; Croslite™ material footbed and outsole for a pleasurable walking experience.
+&#9679; Imported.
+&#9679; Weight: 8 oz
+&#9679; Product measurements were taken using size 11, width M. Please note that measurements may vary by size.
+	    </info>
+	</item>
+    
+    
+    <item>
+	    <id>7</id>
+	    <name>Small Laptop Sleeve</name>
+	    <shop> STM Bags</shop>
+	    <tags>Laptop bag, STM, </tags>
+	    <category>Bags, Laptop Bags, STM Bags</category>
+	    <review> 3.5</review>
+	    <featured-image>stm_berry1</featured-image>
+	    <price>35</price>
+	    <new>true</new>
+	    <hot>false</hot>
+	    <stock>SHIPS FREE!</stock>
+	    
+	    <options>
+	       <option name="color" style="images">
+	            <color image="stm_berry1" color_id = "berry">Berry</color>
+	            <color image="stm_grey1" color_id = "grey">Grey</color>	            
+	        </option>
+    
+	    </options>
+	    
+	    <images>
+	         <image color_id="berry">stm_berry1</image>
+	        <image color_id = "berry">stm_berry2</image>
+	        <image color_id="grey">stm_grey1</image>
+	        <image color_id = "grey">stm_grey2</image>
+	    </images>
+	    <info>&#9679; The Blazer Extra Small Laptop Sleeve from STM® is a form-fitting and protective laptop sleeve with more features than you can shake a hard drive at.
+&#9679; Computer compartment is specially designed to accommodate an 11" MacBook Air®, Ultrabook® or other similarly sized laptops.
+&#9679; Made from rugged 300D velocity polyester with a 200D water-resistant polyester lining and a 200g brushed nylex material in the laptop section.
+&#9679; Blazer can drop easily into another bag or use the adjustable and removable shoulder strap for a longer haul.
+&#9679; Dedicated slip pocket on the front for conveniently storing your cell phone.
+&#9679; Zippered from pocket is perfect for holding your computer cables, small business items or your tablet.
+&#9679; Zippered main compartment features a super soft interior lining to cradle your digital device.
+&#9679; Measurements:
+&#9679; Bottom Width: 13 in
+&#9679; Depth: 1 1⁄2 in
+&#9679; Height: 8 1⁄2 in
+&#9679; Handle Length: 6 in
+&#9679; Handle Drop: 1 in
+&#9679; Accessory Strap Length: 48 in
+&#9679; Accessory Strap Drop: 24 in
+&#9679; Weight: 11 oz
+	    </info>
+	</item>
+    
+    <item>
+	    <id>6</id>
+	    <name>Mavi Jeans</name>
+	    <shop> Zach Regular Rise Straight Leg</shop>
+	    <tags>Jeans, Men, Mavi, Zach, Straight</tags>
+	    <category>Clothing, Jeans, Men</category>
+	    <review> 1.5</review>
+	    <featured-image>mavi1</featured-image>
+	    <price>98</price>
+	    <new>true</new>
+	    <hot>false</hot>
+	    <stock>25 ITEMS REMAINING</stock>
+	    
+	    <options>
+	       <option name="color" style="images">
+	            <color image="converse1" color_id="red">Red</color>
+	            <color image="converse2" color_id="blue">Blue</color>
+	            <color image="converse3" color_id="yellow">Yellow</color>
+	        </option>
+    
+	    </options>
+	    
+	    <images>
+	         <image color_id = "blue">mavi1</image>
+	        <image color_id = "blue">mavi2</image>
+	         <image color_id = "yellow">mavi3</image>
+	          <image color_id = "red">mavi4</image>
+	    </images>
+	    <info>&#9679; Easy, classic style.
+&#9679; The Zach jean sports a regular rise and straight leg that tapers slightly from the knee down.
+&#9679; Dark Maui is a dark blue wash on lightweight and comfortable 9 oz. stretch denim with whiskers and fading on the front thighs and seat for a broken-in look and feel.
+&#9679; Classic five-pocket construction.
+&#9679; Pieced back patch pockets feature signature embroidery.
+&#9679; Contrast topstitching.
+&#9679; Leather brand patch at the back waist.
+&#9679; Brand label on the right rear pocket.
+&#9679; Belt loop waistband.
+&#9679; Zipper fly and button closure.
+&#9679; 70% cotton, 29% eme, 1% elastane.
+&#9679; Machine wash cold, hang dry.
+&#9679; Made in Turkey.
+	    </info>
+	</item>
+    
+    <item>
+	    <id>5</id>
+	    <name>Converse</name>
+	    <shop>Converse Chuck Taylor</shop>
+	    <tags>Converse, shoes, Chuck , Taylor</tags>
+	    <category>Shoes, Sneakers, Men</category>
+	    <review> 4.5</review>
+	    <featured-image>converse1</featured-image>
+	    <price>44.95</price>
+	    <new>false</new>
+	    <hot>true</hot>
+	    <stock>HURRY! 2 ITEMS REMAINING!</stock>
+	    <options>
+	        <option name="size" style="text">
+	            <size>Men's 9</size>
+	            <size>Men's 8</size>
+	            <size>Men's 7</size>
+	        </option>
+	        
+	        
+	    </options>
+	    <images>
+	         <image color_id = "default">converse1</image>
+	        <image color_id = "default">converse2</image>
+	         <image color_id = "default">converse3</image>
+	    </images>
+	    <info>&#9679; The original basketball shoe is now defined as a stylish modern-day fashion staple! The All Star® Core Ox from Converse® is a great complement to any casual ensemble.
+&#9679; Durable canvas upper.
+&#9679; Lace-up front with metal eyelets.
+&#9679; Canvas lining and a cushioned footbed provides hours of comfort.
+&#9679; Original rubber toe box and toe guard, tonal sidewall trim and All Star® heel patch.
+&#9679; Signature Converse® rubber outsole.
+&#9679; Imported.
+	    </info>
+	</item>
+    
+  
+    
+	<item>
+	    <id>3</id>
+	    <name>Name 1</name>
+	    <shop>Shop 1</shop>
+	    <tags>tag 1</tags>
+	    <category>cat 1</category>
+	    <review> 3.2</review>
+	    <featured-image>image4</featured-image>
+	    <price>50</price>
+	    <new>false</new>
+	    <hot>true</hot>
+	    <stock>43 ITEMS </stock>
+	    <options>
+	        <option name="size" style="text">
+	            <size>Men's 9</size>
+	            <size>Men's 8</size>
+	            <size>Men's 7</size>
+	        </option>
+	        
+	        <option name="texture" style="images">
+	            <texture image="converse1">Option 1</texture>
+	            <texture image="converse1">Option 2</texture>
+	            <texture image="converse1">Option 3</texture>
+	        </option>
+	        
+	    </options>
+	    <images>
+	        <image color_id = "default">image4</image>
+	         <image color_id = "default">image2</image>
+	    </images>
+	    <info>
+	     &#9679; UA Storm gear uses a DWR finish to repel water without sacrificing breathability. 
+		 &#9679; Textured Armour Fleece has a brushed inner layer &amp; a smooth outer layer. 
+ 		 &#9679; Soft inner layer traps heat to keep you warm &amp; comfortable. 
+		 &#9679; 3-piece hood construction for superior fit. 
+		 &#9679; Front kangaroo pocket. 
+		 &#9679; Full, loose fit for enhanced range of motion &amp; breathable comfort no matter where your workout takes you. 
+		 &#9679; 100% polyester. 
+		 &#9679; Machine wash cold, tumble dry low. 
+		 &#9679; Imported. 
+	    </info>
+	</item>
+	
+	<item>
+	    <id>4</id>
+	    <name>Sesto Meucci</name>
+	    <shop>Kloris</shop>
+	    <tags>loafers, shoes, Sesto, Meucci</tags>
+	    <category>Shoes, Loafers, Women</category>
+	    <review> 3.2</review>
+	    <featured-image>sesto1</featured-image>
+	    <price>229</price>
+	    <new>false</new>
+	    <hot>false</hot>
+	    <stock>IN-STOCK!</stock>
+	    <options>
+	        <option name="size" style="text">
+	            <size>Men's 9</size>
+	            <size>Men's 8</size>
+	            <size>Men's 7</size>
+	        </option>
+	        
+	       
+	    </options>
+	    <images>
+	         <image color_id = "default">sesto1</image>
+	        <image color_id = "default" >sesto2</image>
+	         <image color_id = "default">sesto3</image>
+	    </images>
+	    <info>&#9679; UA Storm gear uses a DWR finish to repel water without sacrificing breathability. 
+&#9679; Grab your favorite book and pour yourself a glass of wine in the sophisticated and relaxed Sesto Meucci&#174; Kloris. 
+&#9679; Upper made with soft rich suede and adorned with embroidery and rhinestones. 
+&#9679; Slip-on silhouette allows you to slide into comfort with this stylish loafer.
+&#9679; Soft leather-lined footbed cushions every step providing all day comfort.
+&#9679; Durable man-made outsole offers added traction.
+&#9679; Made in Italy.
+	    </info>
+	</item>
+	
+	<item>
+	    <id>2</id>
+	    <name>Name 2</name>
+	    <shop>Shop 2</shop>
+	    <tags>tag 2</tags>
+	    <category>cat 2</category>
+	    <review> 4.5</review>
+	    <featured-image>image2</featured-image>
+	    <price>60</price>
+	    <new>true</new>
+	    <hot>false</hot>
+	    <stock>6 ITEMS</stock>
+	    <options>
+	        <option name="size" style="text">
+	            <size>Men's 9</size>
+	            <size>Men's 8</size>
+	            <size>Men's 7</size>
+	        </option>
+	        
+	        
+	    </options>
+	    <images>
+	        <image color_id = "default">image3</image>
+	         <image color_id = "default">image2</image>
+	    </images>
+	    <info>
+	     &#9679; UA Storm gear uses a DWR finish to repel water without sacrificing breathability. 
+		 &#9679; Textured Armour Fleece has a brushed inner layer &amp; a smooth outer layer. 
+ 		 &#9679; Soft inner layer traps heat to keep you warm &amp; comfortable. 
+		 &#9679; 3-piece hood construction for superior fit. 
+		 &#9679; Front kangaroo pocket. 
+		 &#9679; Full, loose fit for enhanced range of motion &amp; breathable comfort no matter where your workout takes you. 
+		 &#9679; 100% polyester. 
+		 &#9679; Machine wash cold, tumble dry low. 
+		 &#9679; Imported. 
+	    </info>
+	</item>
+	
+	  
+	<item>
+	    <id>1</id>
+	    <name>Name 3</name>
+	    <shop>Shop 3</shop>
+	    <tags>tag 3</tags>
+	    <category>cat 3</category>
+	    <review> 4.6</review>
+	    <price>54</price>
+	    <new>true</new>
+	    <hot>false</hot>
+	    <stock>25 ITEMS</stock>
+	    <options>
+	        <option name="size" style="text">
+	            <size>Men's 9</size>
+	            <size>Men's 8</size>
+	            <size>Men's 7</size>
+	        </option>
+	        
+	        
+	    </options>
+	    <featured-image>image3</featured-image>
+	    <images>
+	        <image color_id = "default">image3</image>
+	         <image color_id = "default">image4</image>
+	    </images>
+	    <info>
+	     &#9679; UA Storm gear uses a DWR finish to repel water without sacrificing breathability. 
+		 &#9679; Textured Armour Fleece has a brushed inner layer &amp; a smooth outer layer. 
+ 		 &#9679; Soft inner layer traps heat to keep you warm &amp; comfortable. 
+		 &#9679; 3-piece hood construction for superior fit. 
+		 &#9679; Front kangaroo pocket. 
+		 &#9679; Full, loose fit for enhanced range of motion &amp; breathable comfort no matter where your workout takes you. 
+		 &#9679; 100% polyester. 
+		 &#9679; Machine wash cold, tumble dry low. 
+		 &#9679; Imported. 
+	    </info>
+	</item>
+</items>
